@@ -7,7 +7,7 @@ Library    OperatingSystem
 ${BROWSER}         Chrome
 ${URL}             https://www.cvkeskus.ee/
 ${SEARCH_TERM}     Software Engineer
-${SAVE_FOLDER}     C:/Users/lizbo/Desktop/CVKeskusAutomation/results
+${SAVE_FOLDER}     your/path/to/the/folder
 ${JOB_RESULTS_FILE}     job_results.txt
 
 *** Test Cases ***
